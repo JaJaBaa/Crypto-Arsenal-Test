@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crypto-Arsenal 前端實習測試
 
 感謝您應徵 Crypto-Arsenal 的前端實習工程師職位！此儲存庫作為線上測試題目使用，請依照以下步驟進行：
@@ -40,7 +41,9 @@
 
 ### Git
 
-切換到 `test` 分支並依據 README 完成任務。
+- 請將當前分支對 `main` 分支執行 `git rebase`，並在遇到衝突時，以當前分支的內容覆蓋 `main` 分支中的 `### Git` 部分。
+- 操作完成後，將此分支推送至 GitHub。
+- 請切回主分支繼續作答其他題目。
 
 ### Next.js
 
@@ -72,3 +75,5 @@ Story 文件應位於 `app/**/*.stories.tsx`。
 ### Playwright
 
 為 Next.js 頁面 `/count` 寫一個 E2E 測試，確保頁面功能正常運行。
+=======
+>>>>>>> 6a03f1f (add README)
