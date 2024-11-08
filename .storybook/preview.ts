@@ -1,6 +1,6 @@
-import type { Preview } from "@storybook/react";
+import "../app/globals.css"; // Adjust the path if your CSS file is located elsewhere
 
-const preview: Preview = {
+const preview = {
   parameters: {
     actions: { argTypesRegex: "^on[A-Z].*" },
     controls: {
