@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crypto-Arsenal 前端實習測試
 
 感謝您應徵 Crypto-Arsenal 的前端實習工程師職位！此儲存庫作為線上測試題目使用，請依照以下步驟進行：
@@ -75,5 +74,3 @@ Story 文件應位於 `app/**/*.stories.tsx`。
 ### Playwright
 
 為 Next.js 頁面 `/count` 寫一個 E2E 測試，確保頁面功能正常運行。
-=======
->>>>>>> 6a03f1f (add README)
